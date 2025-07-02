@@ -1,0 +1,1 @@
+This is a Python(Flask) Backend for an ecommerce website contain all the routes responsible for navigating through the website, a models file that contain the structure of the database,a configuration file with all the necessary configuration settings and app.py that will be used to run the project.
